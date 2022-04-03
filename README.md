@@ -1,7 +1,7 @@
-Hi there, I'm @username11384, and I'm currently working on MethuselahOS @InanisDev
-Learning the Linux kernel, ruby, Python, C
-Looking for more collaborators to help with MethuselahOS
-Find me at username11384@gmail.com
+Hi there, I'm @username11384, and I'm currently working on MethuselahOS @InanisDev <br>
+Learning the Linux kernel, ruby, Python, C <br>
+Looking for more collaborators to help with MethuselahOS <br>
+Find me at username11384@gmail.com <br>
 
 <!---
 username11384/username11384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
