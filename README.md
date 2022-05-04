@@ -1,5 +1,5 @@
 Hi there, I'm @username11384, and I'm currently working on MethuselahOS @InanisDev <br>
-Learning the Linux kernel, ruby, Python, C <br>
+Learning the Linux kernel, Ruby, Python, C, React <br>
 Looking for more collaborators to help with MethuselahOS <br>
 Find me at username11384@gmail.com <br>
 ![](https://komarev.com/ghpvc/?username=username11384)
